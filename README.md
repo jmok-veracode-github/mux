@@ -34,7 +34,7 @@ The name mux stands for "HTTP request multiplexer". Like the standard `http.Serv
 * [Testing Handlers](#testing-handlers)
 * [Full Example](#full-example)
 
----
+---      
 
 ## Install
 
