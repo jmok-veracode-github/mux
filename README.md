@@ -1,4 +1,4 @@
-# gorilla/mux
+ # gorilla/mux
 
 ![testing](https://github.com/gorilla/mux/actions/workflows/test.yml/badge.svg)
 [![codecov](https://codecov.io/github/gorilla/mux/branch/main/graph/badge.svg)](https://codecov.io/github/gorilla/mux)
